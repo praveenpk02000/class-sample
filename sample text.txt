@@ -1,1 +1,2 @@
 Hi all this is the basics of git 
+here we will learn about git.
